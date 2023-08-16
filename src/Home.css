@@ -16,8 +16,8 @@
     justify-content: center;
 }
 .boxgame{
-    width: 50%;
-    height: 50%;
+    width: 400px;
+    height: 400px;
     background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
     border-radius: 25px;
     box-shadow: 5px 10px 8px #000;
