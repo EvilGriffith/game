@@ -45,8 +45,8 @@
 }
 .block{
     border: 1px solid black;
-    width: 33%;
-    height: 33%;
+    width: 33.3%;
+    height: 33.3%;
     position: static;
     float: left;
     font-size: 55px;
